@@ -1,0 +1,5 @@
+serial
+adafruit-circuitpython-bmp280
+RPi.GPIO
+smbus
+pyserial
